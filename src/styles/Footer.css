@@ -6,4 +6,9 @@
     margin: auto;
     width: 100%;
     text-align: center;
+    background-color: #00305C;
+}
+
+.foot{
+    color: white;
 }

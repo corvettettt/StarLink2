@@ -1,8 +1,13 @@
 .main {
     position: relative;
-    height: 760px;
+    height: 590px;
 }
 
 .right-side {
-    height: 760px;
+    height: 590px;
+}
+
+.left-side{
+    height: 550px;
+    margin : 20px;
 }

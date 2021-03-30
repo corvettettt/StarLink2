@@ -4,6 +4,8 @@
 @import "./styles/Footer.css";
 @import "./styles/Header.css";
 @import "./styles/SatSetting.css";
+@import "./styles/SatelliteList.css";
+@import "./styles/WorldMap.css";
 /*@import 这里是css的用法*/
 body {
   margin: 0;
