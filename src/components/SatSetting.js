@@ -66,7 +66,7 @@ class SatSettingForm extends Component {
                     }
                 </Form.Item>
 
-                <Form.Item label="Altitude(degrees)">
+                <Form.Item label="Radius(degrees)">
                     {
                         getFieldDecorator("altitude", {
                             rules: [
